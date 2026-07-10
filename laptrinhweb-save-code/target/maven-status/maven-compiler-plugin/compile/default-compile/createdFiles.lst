@@ -1,0 +1,12 @@
+servlet/LogoutServlet.class
+context/DBContext.class
+servlet/CourseServlet.class
+util/RedirectUtil.class
+servlet/AuthFilter.class
+dao/UserDAO.class
+model/User.class
+model/Course.class
+dao/CourseDAO.class
+util/HashUtil.class
+servlet/RegisterServlet.class
+servlet/LoginServlet.class
